@@ -40,16 +40,3 @@ for each in range(1,test_cases+1):
     
         
 print(final_list)        
-
-    
-    
-# print()   
-# print(dict1)
-# print()
-# for i in sorted(dict1.keys()):
-#     print(i, dict1[i])
-# max(dict1,key=dict1.get)
-# print()       
-
-# for i in list1:
-#     print(i)
